@@ -1,0 +1,44 @@
+.root{
+    -fx-font-size: 14pt;
+    -fx-font-family: "Rockwell";
+    -fx-background: #CBD9D6;
+
+}
+
+#button1{
+    -fx-text-fill: white;
+    -fx-background-color: #8DA593;
+    -fx-border-radius: 20;
+    -fx-background-radius: 7;
+    -fx-padding: 5;
+}
+
+#label1 {
+    -fx-font: bold 16pt "Arial";
+    -fx-text-fill: #D98282;
+    -fx-font-family: "Rockwell";
+}
+#label2{
+    -fx-font: bold 16pt "Arial";
+    -fx-text-fill: #00A57C;
+    -fx-font-family: "Rockwell";
+
+}
+#label3{
+    -fx-font: bold 16pt "Arial";
+    -fx-text-fill: #D98282;
+    -fx-font-family: "Rockwell";
+}
+#label4{
+    -fx-font: bold 16pt "Arial";
+    -fx-text-fill: red;
+    -fx-font-family: "Rockwell";
+}
+
+#label5{
+    -fx-font: bold 18pt "Open Sans";
+    -fx-text-fill: black;
+    -fx-font-family: "Rockwell";
+}
+
+
